@@ -3,6 +3,6 @@
 - 👐🏻 I'm a student learning how to code
 - 🐼 I code in Python, Java, Kotlin, C++, etc
 - 🐍 Python lover
-- ☘️ Future develope
+- ☘️ Future developer
 - 🌕 Learning git
  
